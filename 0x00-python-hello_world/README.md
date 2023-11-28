@@ -5,6 +5,9 @@
 <br>4-print_float.py: print the float stored in the variable ```number``` with a precision of 2 digits.
 <br>5-print_string.py: print 3 times a string stored in the variable ```str```, followed by its first 9 characters.
 <br>6-concat.py: print ```Welcome to Holberton School!```
-<br>7-edges.py: <ls>```word_first_3``` should contain the first 3 letters of the variable ```word```
-```word_last_2``` should contain the last 2 letters of the variable ```word```
-```middle_word``` should contain the value of the variable ```word``` without the first and last letters</ls>
+<br>7-edges.py: <ul>
+<ls>```word_first_3``` should contain the first 3 letters of the variable ```word```</ls>
+<ls>```word_last_2``` should contain the last 2 letters of the variable ```word```</ls>
+<ls>```middle_word``` should contain the value of the variable ```word``` without the first and last letters</ls>
+</ul>
+<br>8-concat_edges.py: print ```object-oriented programming with Python```, followed by a new line.
