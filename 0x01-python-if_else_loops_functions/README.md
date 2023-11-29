@@ -4,3 +4,4 @@
 <br>3-print_alphabt.py: Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
 
     Print all the letters except ```q``` and ```e```
+<br>4-print_hexa.py: Write a program that prints all numbers from ```0``` to ```98``` in decimal and in hexadecimal (as in the following example)
