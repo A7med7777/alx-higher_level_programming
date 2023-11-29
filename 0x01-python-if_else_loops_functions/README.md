@@ -9,3 +9,4 @@
 <br>6-print_comb3.py: Write a program that prints all possible different combinations of two digits.
 <br>7-islower.py: Write a function that checks for lowercase character. 
 <br>8-uppercase.py: Write a function that prints a string in uppercase followed by a new line.
+<br>9-print_last_digit.py: Write a function that prints the last digit of a number.
