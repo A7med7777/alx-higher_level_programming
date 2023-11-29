@@ -11,3 +11,4 @@
 <br>8-uppercase.py: Write a function that prints a string in uppercase followed by a new line.
 <br>9-print_last_digit.py: Write a function that prints the last digit of a number.
 <br>10-add.py: Write a function that adds two integers and returns the result.
+<br>11-pow.py: Write a function that computes ```a``` to the power of ```b``` and return the value.
