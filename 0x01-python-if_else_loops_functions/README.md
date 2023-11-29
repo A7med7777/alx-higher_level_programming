@@ -8,3 +8,4 @@
 <br>5-print_comb2.py: Write a program that prints numbers from ```0``` to ```99```. 
 <br>6-print_comb3.py: Write a program that prints all possible different combinations of two digits.
 <br>7-islower.py: Write a function that checks for lowercase character. 
+<br>8-uppercase.py: Write a function that prints a string in uppercase followed by a new line.
