@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-# main_program.py
-import sys
-
 # Check if the script is being run as the main program
 if __name__ == "__main__":
+    import sys
     # Get the number of arguments
     num_args = len(sys.argv) - 1  # subtract 1 to exclude the script name
 
