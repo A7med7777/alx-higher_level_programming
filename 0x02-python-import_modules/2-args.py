@@ -6,7 +6,8 @@ if __name__ == "__main__":
     num_args = len(sys.argv) - 1  # subtract 1 to exclude the script name
 
     # Print the number of arguments and whether it's singular or plural
-    print("{} argument{}".format(num_args, "s" if num_args != 1 else ""), end="")
+    print("{} argument{}".format(
+        num_args, "s" if num_args != 1 else ""), end="")
 
     # Check if there are any arguments
     if num_args > 0:
