@@ -1,4 +1,4 @@
-#0x04. Python - More Data Structures: Set, Dictionary
+# 0x04. Python - More Data Structures: Set, Dictionary
 
 <br>0-square_matrix_simple.py: a function that computes the square value of all integers of a matrix.
 <br>1-search_replace.py: a function that replaces all occurrences of an element by another in a new list.
@@ -9,3 +9,4 @@
 <br>6-print_sorted_dictionary.py: a function that prints a dictionary by ordered keys.
 <br>7-update_dictionary.py: a function that replaces or adds key/value in a dictionary.
 <br>8-simple_delete.py: a function that deletes a key in a dictionary.
+<br>9-multiply_by_2.py: a function that returns a new dictionary with all values multiplied by 2
