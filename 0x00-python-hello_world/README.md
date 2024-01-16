@@ -16,3 +16,5 @@
 	- Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
 8. Create a new sentence:
 	- Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.
+9. Easter Egg:
+	- Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
