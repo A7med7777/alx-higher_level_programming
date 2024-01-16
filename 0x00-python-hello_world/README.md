@@ -18,3 +18,17 @@
 	- Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.
 9. Easter Egg:
 	- Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+
+10. Linked list cycle:
+	- Technical interview preparation:
+		- You are not allowed to google anything
+		- Whiteboard first
+		- This task and all future technical interview prep tasks will include checks for the efficiency of your solution, i.e. is your solution’s runtime fast enough, does your solution require extra memory usage / mallocs, etc.
+	- Write a function in C that checks if a singly linked list has a cycle in it.
+		- Prototype: `int check_cycle(listint_t *list);`
+		- Return: `0` if there is no cycle, `1` if there is a cycle
+
+	- Requirements:
+		- Only these functions are allowed: `write, printf, putchar, puts, malloc, free`
+11. Hello, write:
+	- Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
