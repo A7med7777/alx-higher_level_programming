@@ -34,3 +34,6 @@
 	- Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
 12. Compile:
 	- Write a script that compiles a Python script file.
+
+13. ByteCode -> Python #1:
+	- Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode
