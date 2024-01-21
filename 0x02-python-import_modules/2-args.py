@@ -6,8 +6,8 @@ if __name__ == "__main__":
     num_args = len(args)
 
     if num_args > 0:
-        print("{num_args} argument:".format()) if num_args == 1 else print("{num_args} arguments:".format())
+        print(f"{num_args} argument:") if num_args == 1 else print(f"{num_args} arguments:")
         for i in range(num_args):
-            print("{i + 1}: {args[i]}".format())
+            print(f"{i + 1}: {args[i]}")
     else:
         print("0 arguments.")
