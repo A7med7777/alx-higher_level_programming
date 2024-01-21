@@ -9,6 +9,7 @@
 		- YOU CAN ONLY SUE THE WORD `add_0` ONCE IN YOU CODE
 		- You are not allowed to use `*` for importing or `__import__`
 		- Your code should not be executed when imprted - by using `__import__`
+
 1. My first toolbox!
 	- Write a program that import functions from the file `calculator_1.py`, does some Maths, and prints the result.
 		- Do not use the function `print` (with string format to display integers) more than 4 times
@@ -21,3 +22,14 @@
 		- the word `calculator_1` should be used only once in your file
 		- You are not allowed to use `*` for importing of `__import__`
 		- Your code should not be executed when imported
+
+2. How to make a script dynamic!
+	- Write a program that prints the number of and the list of its arguments.
+		- The ouput should be:
+			- Number of argument(s) followed by `argument` (if number is one) or `arguments`(otherwise), followed by
+			- `:` or `.` if no arguments were passed followed by
+			- a new line, followde by (if at least on argument), 
+			- one line per argument:
+				- the position of the argument (starting a `1`) followed by `:`, followed by the argument value and a new line
+		- Your code should not be executed when imported
+		- The number of elements of `argv` can be retrieved by usin: `len(argv)`
